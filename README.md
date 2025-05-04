@@ -2,8 +2,7 @@
 
 ### GitHub Insights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doopii&layout=compact&theme=apprentice)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doopii&theme=apprentice)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doopii&layout=compact&theme=great-gatsby)  
 
 ---
 
