@@ -2,7 +2,7 @@
 
 ### GitHub Insights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doopii&layout=compact&theme=great-gatsby)  
+![Teno's GitHub stats](https://github-readme-stats.vercel.app/api?username=doopii&show_icons=true&theme=merko)
 
 ---
 
@@ -20,4 +20,6 @@
 
 - **Internship Application System** — Java-based system using custom ADTs, applicant/job filtering, ranking logic, and interview scheduling via ECB architecture.
 
----
+--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doopii&repo=movie-recommender&theme=merko)](https://github.com/doopii/movie-recommender)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doopii&repo=Internship-Application-Program&theme=merko)](https://github.com/doopii/Internship-Application-Program)
