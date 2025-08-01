@@ -13,6 +13,7 @@ Sometimes I make things here
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doopii&show_icons=true&theme=merko)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doopii&layout=compact&theme=merko)  
 
 </div>
