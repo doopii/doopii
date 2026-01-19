@@ -53,8 +53,8 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://.com)
 
 </div>
 
