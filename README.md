@@ -2,7 +2,7 @@
 
 # H3LLO ![Profile views](https://komarev.com/ghpvc/?username=doopii&color=gray&style=flat-square&label=visitors)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8b949e&center=true&vCenter=true&width=1000&lines=Final+Year+Software+Engineering+Student;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8b949e&center=true&vCenter=true&width=1000&lines=OHAYOUUUUUUUUUUUUUUUUUUUUUUU;" alt="Typing SVG" />
 
 </div>
 
