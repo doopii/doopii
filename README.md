@@ -44,7 +44,6 @@
 </div>
 
 ## Activity Graph
-
 <a href="https://github.com/doopii">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=doopii&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=8b949e&point=c9d1d9&area=true&custom_title=contribution%20graph" width="100%" />
 </a>
@@ -56,8 +55,4 @@
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:evagohjiaxin@gmail.com)
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://.com)
 
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d2d2d&height=120&section=footer" width="100%"/>
-</div>
