@@ -1,6 +1,6 @@
 
 
-# H3LLO ![Profile views](https://komarev.com/ghpvc/?username=doopii&color=gray&style=flat-square&label=visitors)
+# H3LLO ![Profile views](https://komarev.com/ghpvc/?username=doopii&color=gray&style=flat-square&label=visitors) [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:evagohjiaxin@gmail.com) [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=About.me&logoColor=white)]([https://.com](https://evagohjiaxin.vercel.app/))
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8b949e&center=true&vCenter=true&width=1000&lines=OHAYOUUUUUUUUUUUUUUUUUUUUUUU;" alt="Typing SVG" />
 
@@ -39,8 +39,9 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doopii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&border_color=30363d" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doopii&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=30363d" height="170"/>
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=doopii&theme=dark&hide_border=true&background=0d1117" height="170"/>
+
 </div>
 
 ## Activity Graph
@@ -48,11 +49,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=doopii&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=8b949e&point=c9d1d9&area=true&custom_title=contribution%20graph" width="100%" />
 </a>
 
-## Contact
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:evagohjiaxin@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://.com)
 
 
